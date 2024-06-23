@@ -45,12 +45,14 @@ The JavaScript file that contains the game logic for handling card flips, matchi
 # Setup and Installation
 
 - Clone the repository:
--  ```sh
+- 
+```sh
   git clone https://github.com/Simacoder/solve.git
-    ```
+   ```
 
 - Navigate to the project directory:
--  ```sh
+  
+```sh
    cd memory-game
    ```
 
