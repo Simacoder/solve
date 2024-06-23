@@ -25,11 +25,12 @@ The Memory Game is a simple browser-based game where the player must match pairs
 - Continue flipping cards until all pairs are matched.
 
 # Project Structure
-
+ ```sh
 memory-game/
 ├── game.html
 ├── style.css
 └── index.js
+```
 
 # game.html
 The main HTML file that sets up the structure of the game board. It includes links to the CSS and JavaScript files.
@@ -44,12 +45,16 @@ The JavaScript file that contains the game logic for handling card flips, matchi
 # Setup and Installation
 
 - Clone the repository:
-  git clone https://github.com/your-username/memory-game.git
+-  ```sh
+  git clone https://github.com/Simacoder/solve.git
+    ```
 
 - Navigate to the project directory:
+-  ```sh
    cd memory-game
+   ```
 
-Open game.html in a web browser to start the game.
+- Open game.html in a web browser to start the game.
 
 # Future Improvements
 - Add a timer to track how long it takes to complete the game.
